@@ -16,6 +16,8 @@ Thanks mister Obvious !
 
 ### What's saved
 
+#### Config / Files
+
 Terminator  
 I3 (i3-gaps, i3blocks, i3lock, some scripts)  
 Rofi  
@@ -25,6 +27,7 @@ Synaptics
 Sudoers  
 Pacman  
 Python's libs  
+Neofetch  
 
 ### What's Restored/Installed
 
