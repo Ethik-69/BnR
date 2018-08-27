@@ -5,48 +5,48 @@ The ssh keys i mean..
 
 Well... That was for another repo... cp's not the best things to do =O
 
-## Use
+### Use
 Just launch the file you want !
 
 backup.sh will backup some things
 restore.sh will restore some things
 Thanks mister Obvious !
 
-## What's saved
+### What's saved
 
-Terminator
-I3 (i3-gaps, i3blocks, i3lock, some scripts)
-Rofi
-Compton
-.bashrc
-Synaptics
-Sudoers
-Pacman
-Python's libs
+Terminator  
+I3 (i3-gaps, i3blocks, i3lock, some scripts)  
+Rofi  
+Compton  
+.bashrc  
+Synaptics  
+Sudoers  
+Pacman  
+Python's libs  
 
-## What's Restored/Installed
+### What's Restored/Installed
 
-Git
-Yaourt
-Pacaur
-feh
-polkit
-ufw
-gufw
-htop
-cowsay
-lolcat
-nmap
-scrot
-Atom
-Ansible
-Chromium
-Gitkraken
-Terminator + config file
-I3-gaps I3blocks I3lock  + config file + scripts
-Compton  + config file
-Python's libs
-.bashrc
-Synaptics config
-sudoers
-pacman config
+Git  
+Yaourt  
+Pacaur  
+feh  
+polkit  
+ufw  
+gufw  
+htop  
+cowsay  
+lolcat  
+nmap  
+scrot  
+Atom  
+Ansible  
+Chromium  
+Gitkraken  
+Terminator + config file  
+I3-gaps I3blocks I3lock  + config file + scripts  
+Compton  + config file  
+Python's libs  
+.bashrc  
+Synaptics config  
+sudoers  
+pacman config  
