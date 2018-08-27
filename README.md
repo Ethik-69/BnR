@@ -55,3 +55,4 @@ Python's libs
 Synaptics config  
 sudoers  
 pacman config  
+neofetch config  
