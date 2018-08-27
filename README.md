@@ -6,6 +6,8 @@ The ssh keys i mean..
 Well... That was for another repo... cp's not the best things to do =O
 
 ### Use
+Its for manjaro !
+
 Just launch the file you want !
 
 backup.sh will backup some things

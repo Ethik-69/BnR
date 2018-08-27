@@ -70,3 +70,4 @@ cp $CONFIG_DIR/.bashrc ~/.bashrc
 cp $CONFIG_DIR/70-synaptics.conf /usr/share/X11/xorg.conf.d/70-synaptics.conf
 cp $CONFIG_DIR/sudoers /etc/sudoers
 cp $CONFIG_DIR/pacman.conf /etc/pacman.conf
+cp $CONFIG_DIR/neofetch/ ~/.config/neofetch/config.conf

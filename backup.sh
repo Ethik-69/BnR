@@ -44,7 +44,12 @@ cp /etc/sudoers $CONFIG_DIR/sudoers
 echo "    [*] Pacman"
 cp /etc/pacman.conf $CONFIG_DIR/pacman.conf
 
+echo "    [*] Neofetch"
+mkdir $CONFIG_DIR/neofetch/
+cp ~/.config/neofetch/config.conf $CONFIG_DIR/neofetch/
+
 echo "    [*] Python create requirements.txt"
 pip freeze > $CONFIG_DIR/requirements.txt
+
 
 # Chromium Fav ?
