@@ -3,6 +3,8 @@
 An API to rule them all !  
 The ssh keys i mean..
 
+Well... That was for another repo... cp's not the best things to do =O
+
 ## Use
 Just launch the file you want !
 
